@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_editor_absoluteY="73dp">
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="384dp"
+        android:layout_height="61dp"
+        app:srcCompat="@drawable/header"
+        tools:layout_editor_absoluteY="36dp" />
+
+    <Button
+        android:id="@+id/button8"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="175dp"
+        android:layout_height="0dp"
+        android:text="Search"
+        tools:layout_editor_absoluteX="193dp"
+        tools:layout_editor_absoluteY="86dp" />
+
+    <Button
+        android:id="@+id/button6"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="175dp"
+        android:layout_height="37dp"
+        android:text="Home"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="86dp" />
+
+    <Button
+        android:id="@+id/button5"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back" />
+
+    <ImageView
+        android:id="@+id/imageView34"
+        android:layout_width="102dp"
+        android:layout_height="47dp"
+        app:srcCompat="@drawable/lominame"
+        tools:layout_editor_absoluteX="141dp"
+        tools:layout_editor_absoluteY="151dp" />
+
+</android.support.constraint.ConstraintLayout>
