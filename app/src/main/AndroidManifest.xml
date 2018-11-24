@@ -21,6 +21,8 @@
         <activity android:name=".GotongBatangas" android:label="Gotong Batangas" />
         <activity android:name=".Bulalo" android:label="Bulalo" />
         <activity android:name=".TapangTaal" android:label="Tapang Taal" />
+        <activity android:name=".Taghilaw" android:label="Taghilaw" />
+        <activity android:name=".TamalesngIbaan" android:label="Tamales ng Ibaan" />
         <service android:name=".CustomService"></service>
     </application>
 
