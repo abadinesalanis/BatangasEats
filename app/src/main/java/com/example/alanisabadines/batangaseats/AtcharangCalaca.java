@@ -6,17 +6,17 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class Taghilaw extends AppCompatActivity {
+public class AtcharangCalaca extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.taghilawpage);
+        setContentView(R.layout.atcharapage);
     }
 
     public void process(View v) {
         Intent i = null, chooser = null;
-        if (v.getId() == R.id.button15) {
+        if (v.getId() == R.id.button67) {
             i = new Intent(this, HomePage.class);
             startActivity(i);
         }

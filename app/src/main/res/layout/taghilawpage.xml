@@ -23,6 +23,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:text="Search"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -127,9 +128,12 @@
         style="@android:style/Widget.Button"
         android:layout_width="155dp"
         android:layout_height="50dp"
+        android:layout_marginLeft="196dp"
+        android:layout_marginStart="196dp"
+        android:layout_marginTop="900dp"
         android:text="Button"
-        tools:layout_editor_absoluteX="198dp"
-        tools:layout_editor_absoluteY="899dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         tools:text="Directions" />
 
     <ImageView

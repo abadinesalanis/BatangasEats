@@ -11,7 +11,7 @@ public class TapangTaal extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.bulalopage);
+        setContentView(R.layout.tapapage);
     }
 
     public void process(View v) {

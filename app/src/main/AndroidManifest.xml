@@ -23,6 +23,15 @@
         <activity android:name=".TapangTaal" android:label="Tapang Taal" />
         <activity android:name=".Taghilaw" android:label="Taghilaw" />
         <activity android:name=".TamalesngIbaan" android:label="Tamales ng Ibaan" />
+        <activity android:name=".BikongBatangas" android:label="Bikong Batangas" />
+        <activity android:name=".AtcharangCalaca" android:label="Atcharang Calaca" />
+        <activity android:name=".KapengBarako" android:label="Kapeng Barako" />
+        <activity android:name=".Panutsa" android:label="Panutsa" />
+        <activity android:name=".BagoongBalayan" android:label="Bagoong Balayan" />
+        <activity android:name=".DeepFriedTawilis" android:label="Deep Fried Tawilis" />
+        <activity android:name=".SinigangNaMaliputo" android:label="Sinigang na Maliputo" />
+        <activity android:name=".SinaingNaTulingan" android:label="Sinaing na Tulingan" />
+        <activity android:name=".Tinapa" android:label="Tinapa" />
         <service android:name=".CustomService"></service>
     </application>
 
