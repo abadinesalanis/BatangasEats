@@ -20,12 +20,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="1064dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.962"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button68"
@@ -36,13 +36,12 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
-        android:text="Button"
         android:onClick="process"
+        android:text="Search"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Search" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView82"
@@ -81,12 +80,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="392dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.962"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button103"
@@ -98,12 +97,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="552dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.962"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button104"
@@ -115,12 +114,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="732dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.962"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button105"
@@ -132,12 +131,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="880dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.962"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView129"
@@ -163,12 +162,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="360dp"
-        android:text="TextView"
+        android:text="Address: Tabangao-Lobo Rd, Pallocan West, 4200 Batangas                                                    Hours: 10:00 AM -9:00 PM                                               Phone: 702 5555 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.336"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: Tabangao-Lobo Rd, Pallocan West, 4200 Batangas                                                    Hours: 10:00 AM -9:00 PM                                               Phone: 702 5555 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView130"
@@ -194,12 +192,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="504dp"
-        android:text="TextView"
+        android:text="Address: 6220 Pan-Philippine Hwy, Santo Tomas, 4234 Batangas                                                    Hours: 10:00 AM -9:00 PM                                                    Phone: 0995 393 6033 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.508"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: 6220 Pan-Philippine Hwy, Santo Tomas, 4234 Batangas                                                    Hours: 10:00 AM -9:00 PM                                                    Phone: 0995 393 6033 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView131"
@@ -225,12 +222,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="700dp"
-        android:text="TextView"
+        android:text="Address: San Miguel Santo Tomas, 4234 Batangas Hours: Open 24 Hours                                                     Phone: 0939 872 6623 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.596"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: San Miguel Santo Tomas, 4234 Batangas Hours: Open 24 Hours                                                     Phone: 0939 872 6623 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView132"
@@ -256,12 +252,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="848dp"
-        android:text="TextView"
+        android:text="Address: P Burgos, Brgy 9, 4200 Batangas Hours: 9:00 AM -10:00 PM                                             Phone: 300 1055 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.322"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: P Burgos, Brgy 9, 4200 Batangas Hours: 9:00 AM -10:00 PM                                             Phone: 300 1055 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView134"
@@ -287,12 +282,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="1032dp"
-        android:text="TextView"
+        android:text="Address: 17 Purok 2, Lipa, Batangas Hours: 10:00 AM -9:00 PM                                                             Phone: 774 1038 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.226"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: 17 Purok 2, Lipa, Batangas Hours: 10:00 AM -9:00 PM                                                             Phone: 774 1038 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
 </android.support.constraint.ConstraintLayout>
 

@@ -20,12 +20,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="992dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.901"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button69"
@@ -36,13 +36,12 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
-        android:text="Button"
         android:onClick="process"
+        android:text="Search"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Search" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView84"
@@ -81,12 +80,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="396dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.901"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button94"
@@ -98,12 +97,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="840dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.901"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button95"
@@ -115,12 +114,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="540dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.901"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button96"
@@ -132,29 +131,42 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="688dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.901"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView117"
         android:layout_width="162dp"
         android:layout_height="28dp"
-        app:srcCompat="@drawable/beetulingan"
-        tools:layout_editor_absoluteX="29dp"
-        tools:layout_editor_absoluteY="331dp" />
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="332dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.101"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/beetulingan" />
 
     <TextView
         android:id="@+id/textView73"
         android:layout_width="277dp"
         android:layout_height="wrap_content"
-        android:text="TextView"
-        tools:layout_editor_absoluteX="29dp"
-        tools:layout_editor_absoluteY="362dp"
-        tools:text="Address: 17 Purok 2, Tambo, Lipa, Batangas Hours: 10:00 AM - 9:00 PM                                              Phone: 0917 504 8766 " />
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="360dp"
+        android:text="Address: 17 Purok 2, Tambo, Lipa, Batangas Hours: 10:00 AM - 9:00 PM                                              Phone: 0917 504 8766 "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.23"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView118"
@@ -180,12 +192,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="508dp"
-        android:text="TextView"
+        android:text="Address: Diokno Hwy, Calaca, Batangas Hours: 8:00 AM - 9:00 PM                                               Phone: 0916 774 7280 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.228"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: Diokno Hwy, Calaca, Batangas Hours: 8:00 AM - 9:00 PM                                               Phone: 0916 774 7280 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView119"
@@ -209,12 +220,11 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="656dp"
-        android:text="TextView"
+        android:text="Address: Diversion Road, Bolbok, Batangas City, Batangas                                                                            Hours: 8:00 AM - 9:00 PM                                                                Phone: 0927 785 4185 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.367"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: Diversion Road, Bolbok, Batangas City, Batangas                                                                            Hours: 8:00 AM - 9:00 PM                                                                Phone: 0927 785 4185 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView120"
@@ -240,12 +250,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="804dp"
-        android:text="TextView"
+        android:text="Address: Tolentino West, Talisay, Batangas Hours: 8:00 AM -11:00 PM                                             Phone: 774 4932 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.216"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: Tolentino West, Talisay, Batangas Hours: 8:00 AM -11:00 PM                                             Phone: 774 4932 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView121"
@@ -271,11 +280,10 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="948dp"
-        android:text="TextView"
+        android:text="Address: 10 Ayala Hwy, Lipa, 4218 Batangas Hours: 10:00 AM -9:00 PM                                                  Phone: 0930 613 9522 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.241"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: 10 Ayala Hwy, Lipa, 4218 Batangas Hours: 10:00 AM -9:00 PM                                                  Phone: 0930 613 9522 " />
+        app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
     </ScrollView>

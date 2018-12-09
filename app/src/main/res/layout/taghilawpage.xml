@@ -65,12 +65,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="1036dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.892"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button49"
@@ -82,12 +82,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="432dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.892"
+        app:layout_constraintHorizontal_bias="0.891"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button50"
@@ -99,12 +99,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="584dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.892"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button51"
@@ -116,12 +116,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="740dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.892"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button52"
@@ -131,10 +131,10 @@
         android:layout_marginLeft="196dp"
         android:layout_marginStart="196dp"
         android:layout_marginTop="900dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView68"
@@ -160,12 +160,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="392dp"
-        android:text="TextView"
+        android:text="Address: National Rd, Alangilan, Batangas Hours: 10:00 AM - 12:00 AM                                                               Phone: 300 7488 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.215"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: National Rd, Alangilan, Batangas Hours: 10:00 AM - 12:00 AM                                                               Phone: 300 7488 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView69"
@@ -191,12 +190,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="544dp"
-        android:text="TextView"
+        android:text="Address: Brgy. Kumintang Ibaba, 4200 Batangas Hours: 8:00 AM - 9:00 PM                                          Phone: 723 1118 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.328"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: Brgy. Kumintang Ibaba, 4200 Batangas Hours: 8:00 AM - 9:00 PM                                          Phone: 723 1118 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView70"
@@ -222,12 +220,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="704dp"
-        android:text="TextView"
+        android:text="Address: GC Berberabe Subd., 4200 Batangas Hours: 8:00 AM - 12:00 AM                                                   Phone: 706 2088 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.253"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: GC Berberabe Subd., 4200 Batangas Hours: 8:00 AM - 12:00 AM                                                   Phone: 706 2088 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView71"
@@ -253,12 +250,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="868dp"
-        android:text="TextView"
+        android:text="Address: Gulod Labac, Batangas City, Batangas Hours: 8:00 AM - 9:00 PM                                      Phone: 706 2104 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.314"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: Gulod Labac, Batangas City, Batangas Hours: 8:00 AM - 9:00 PM                                      Phone: 706 2104 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView72"
@@ -283,12 +279,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="1004dp"
-        android:text="TextView"
+        android:text="Address: 117 Fe st. Balayan, 4213 Batangas Hours: 8:00 AM - 11:00 PM                                               Phone: 211 6868 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.247"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: 117 Fe st. Balayan, 4213 Batangas Hours: 8:00 AM - 11:00 PM                                               Phone: 211 6868 " />
+        app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
 
 </ScrollView>

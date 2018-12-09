@@ -22,6 +22,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="996dp"
         android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.862"
         app:layout_constraintStart_toStartOf="parent"
@@ -82,6 +83,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="416dp"
         android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.868"
         app:layout_constraintStart_toStartOf="parent"
@@ -98,6 +100,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="560dp"
         android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.868"
         app:layout_constraintStart_toStartOf="parent"
@@ -114,6 +117,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="716dp"
         android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.868"
         app:layout_constraintStart_toStartOf="parent"
@@ -130,6 +134,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="860dp"
         android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.868"
         app:layout_constraintStart_toStartOf="parent"
@@ -163,8 +168,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.206"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: Calle Jose W. Diokno, Taal, Batangas Hours: 9:00 AM - 8:00 PM                                   Phone: 740 1828 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView101"

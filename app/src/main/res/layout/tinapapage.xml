@@ -19,12 +19,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="1048dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.962"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button106"
@@ -35,13 +35,12 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
-        android:text="Button"
         android:onClick="process"
+        android:text="Search"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Search" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView133"
@@ -82,12 +81,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="436dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.962"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button108"
@@ -99,12 +98,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="584dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.962"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button109"
@@ -116,12 +115,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="736dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.962"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button110"
@@ -133,12 +132,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="892dp"
-        android:text="Button"
+        android:text="Directions"
+        android:onClick="process"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.962"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Directions" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView136"
@@ -164,12 +163,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="404dp"
-        android:text="TextView"
+        android:text="Address: 104, Rizal st., Mataas na Kahoy, Batangas Hours: 11:00 AM -10:00 PM                                        Phone:  0942 957 1190 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.51"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: 104, Rizal st., Mataas na Kahoy, Batangas Hours: 11:00 AM -10:00 PM                                        Phone:  0942 957 1190 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView137"
@@ -195,12 +193,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="548dp"
-        android:text="TextView"
+        android:text="Address: Brgy 2-A, V. Templo st., Mataas na Kahoy, 4223 Batangas                                                          Hours: 11:00 AM -10:00 PM                                               Phone: 461 3273 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.511"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: Brgy 2-A, V. Templo st., Mataas na Kahoy, 4223 Batangas                                                          Hours: 11:00 AM -10:00 PM                                               Phone: 461 3273 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView138"
@@ -226,12 +223,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="704dp"
-        android:text="TextView"
+        android:text="Address: Lumbang Calzada, Calaca-Lemery Hwy, Calaca, 4212 Batangas                                       Hours: 9:00 AM -9:00 PM                                         Phone: 0906 331 7920 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.406"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: Lumbang Calzada, Calaca-Lemery Hwy, Calaca, 4212 Batangas                                       Hours: 9:00 AM -9:00 PM                                         Phone: 0906 331 7920 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView139"
@@ -257,12 +253,11 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="856dp"
-        android:text="TextView"
+        android:text="Address: Big-Ben Complex, Lipa City, Batangas Hours: 9:00 AM -8:00 PM                                          Phone: 312 2482 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.32"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: Big-Ben Complex, Lipa City, Batangas Hours: 9:00 AM -8:00 PM                                          Phone: 312 2482 " />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/imageView140"
@@ -288,11 +283,10 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="1008dp"
-        android:text="TextView"
+        android:text="Address: 103 L Grenas st., Pob. D, Rosario, 4225 Batangas                                           Hours: 8:00 AM -10:00 PM                                         Phone: 0915 441 7902 "
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.24"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Address: 103 L Grenas st., Pob. D, Rosario, 4225 Batangas                                           Hours: 8:00 AM -10:00 PM                                         Phone: 0915 441 7902 " />
+        app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
     </ScrollView>
